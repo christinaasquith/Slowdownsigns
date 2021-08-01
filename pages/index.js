@@ -21,6 +21,11 @@ export default function Home() {
           <code className={styles.code}>Wicked is Good</code>
         </p>
 
+        <a href="https://nextjs.org/learn" className={styles.card2}>
+            <h2>"Kill Someone, and You'll Definitely Miss the Ferry"</h2>
+            <p>Vote Here!</p>
+          </a>
+
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>"Drive Faster- It's Good for Population Control"</h2>
@@ -28,7 +33,7 @@ export default function Home() {
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>"Kill Someone, and You'll Definitely Miss the Ferry"</h2>
+            <h2>"Drive Like Your Ex-Husband Lives Here With His New Girlfriend"</h2>
             <p>Vote Here!</p>
           </a>
 
@@ -54,7 +59,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h2>"Don't Slow Down-- The Kid You're About to Hit Is Super Annoying"</h2>
+            <h2>"Hurry Up-- and Use My Neighbor's Pet As Target Practice"</h2>
             <p>Vote Here!</p>
           </a>
 
